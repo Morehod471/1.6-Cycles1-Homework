@@ -90,6 +90,7 @@ public class Main {
         for (int i = 1; i <= 10; i ++) {
             int a = 2*i;
             System.out.println("2*" + i + "=" + a);
+
         }
     }
 }
